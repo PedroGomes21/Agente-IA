@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Flask (app.py)",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/app.py", 
+            "console": "integratedTerminal",
+            "env": {
+                "WIT_AI_SERVER_ACCESS_TOKEN": "COARG7Q3JREJOR3IVWIBGDDA4F4A535D",
+                "WHATSAPP_ACCESS_TOKEN": "EAAbjaMO7CVIBPETZBBmZC28xfHVZCz1bM8FRheq3AF9PDHhM5ZC5FCOHZAf5yZCOOyQlX423dLpcp1Jjfl3rBzFZAC5wzMht5ROahG3RZAHlwZB3EtMfo2ywYbup9oqgvXLg9ZAPSjpkst4g0G420FZCXGoDeEf19yWoh082ZA5IldI07se9p9iZB1o39puX03hD9ze16S32f2XsbZABVjqda6HyPUtuDa4nAAmvzq0T9ZBhIDZA1mIPaZB8ZD", // <<< ADICIONE ESTA
+                "WHATSAPP_PHONE_NUMBER_ID": "711240185395019", // <<< E ESTA
+                "GOOGLE_API_KEY": "AIzaSyD2e8B_V1GOAvW8wT_t5pHGZbSsI5RhJKA",
+                "FLASK_APP": "app.py",
+                "FLASK_DEBUG": "1"
+            }
+        },
+        {
+            "name": "Python: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "env": {
+                "WIT_AI_SERVER_ACCESS_TOKEN": "COARG7Q3JREJOR3IVWIBGDDA4F4A535D"
+            }
+        }
+    ]
+}
