@@ -165,5 +165,5 @@ Contribuições são muito bem-vindas! Se você tem ideias para novas funcionali
 --
 ## 📷 Imagens Funcionando!
 
-https://prnt.sc/RShzJFlMwf0g
+<img width="751" height="835" alt="Image" src="https://github.com/user-attachments/assets/22d4ebcc-1778-42b1-bbba-93423344ebff" />
 
