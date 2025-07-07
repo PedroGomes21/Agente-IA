@@ -163,5 +163,7 @@ O futuro deste projeto é brilhante! Algumas funcionalidades planejadas incluem:
 Contribuições são muito bem-vindas! Se você tem ideias para novas funcionalidades, melhorias ou encontrou algum bug, sinta-se à vontade para abrir uma *Issue* ou enviar um *Pull Request*.
 
 --
+## 📷 Imagens Funcionando!
 
+https://prnt.sc/RShzJFlMwf0g
 
